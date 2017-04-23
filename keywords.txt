@@ -1,0 +1,3 @@
+ZButton	KEYWORD1
+poll	KEYWORD2
+isPressed	KEYWORD2
